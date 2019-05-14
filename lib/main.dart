@@ -239,9 +239,11 @@ class _MyHomePageState extends State<MyHomePage> {
 
   void _onSave() {
     String id = Uuid().generateV4();
+    final fullName = _fullNameController.text.substring(0, 1).toUpperCase() +
+        _fullNameController.text.substring(1);
     Map<String, dynamic> data = {
       "id": id,
-      "full_name": _fullNameController.text,
+      "full_name": fullName,
       "profile_pic": null
     };
     Firestore.instance
