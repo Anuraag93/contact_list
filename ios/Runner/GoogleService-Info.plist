@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>308782401449-qg5gjgc45h8gekh7gbhkpks6gg8ie00s.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.308782401449-qg5gjgc45h8gekh7gbhkpks6gg8ie00s</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAa4dlWsUwm1FdnhXGS08Y6R9XLLzuwgUw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>308782401449</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.banger.flutter.contact</string>
+	<key>PROJECT_ID</key>
+	<string>contactlist-fa3a5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>contactlist-fa3a5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:308782401449:ios:e0f3e5ad6577e855</string>
+	<key>DATABASE_URL</key>
+	<string>https://contactlist-fa3a5.firebaseio.com</string>
+</dict>
+</plist>

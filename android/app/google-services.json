@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "308782401449",
+    "firebase_url": "https://contactlist-fa3a5.firebaseio.com",
+    "project_id": "contactlist-fa3a5",
+    "storage_bucket": "contactlist-fa3a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308782401449:android:e0f3e5ad6577e855",
+        "android_client_info": {
+          "package_name": "com.banger.flutter.contact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308782401449-n55ok0sep8obvofl6ja8g6m55b0kgtja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe9bw6BucCmJP8FBGDHbkXCZarVLyYfrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308782401449-n55ok0sep8obvofl6ja8g6m55b0kgtja.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "308782401449-qg5gjgc45h8gekh7gbhkpks6gg8ie00s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.banger.flutter.contact"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
