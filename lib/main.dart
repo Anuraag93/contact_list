@@ -128,11 +128,11 @@ class _MyHomePageState extends State<MyHomePage> {
                         child: Column(
                           mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                           children: _initials
-                              .map((i) => GestureDetector(
+                              .map((i) => InkWell(
                                     child: Padding(
                                       padding:
-                                          // EdgeInsets.fromLTRB(20, 10, 5, 10),
-                                          EdgeInsets.all(10),
+                                          EdgeInsets.fromLTRB(20, 5, 10, 5),
+                                      // EdgeInsets.all(10),
                                       child: Text(i.initial),
                                     ),
                                     onTap: () => animateList(i.offset),
